@@ -1,32 +1,57 @@
 .riga_di_prodotti_1{
   background: lightgrey;
+  border-style: solid;
+  margin-right: 500px;
+  margin-left: 500px;
+  margin-top: 7px;
+  margin-bottom: 7px;
+  padding-bottom: 289px;
   position: relative;
 }
 
 .riga_di_prodotti_2{
-
+  background: lightgrey;
+  border-style: solid;
+  margin-right: 500px;
+  margin-left: 500px;
+  margin-top: 7px;
+  margin-bottom: 7px;
+  padding-bottom: 289px;
+  position: relative;
 
 }
 
 #prodotto_1{
   display: inline-block;
+  background-color: darkgrey;
   border-style: solid;
   border-width: thin;
+  position: absolute;
+  left: 0px;
+  top: 0px;
 }
 
 #prodotto_2{
   display: inline-block;
+  background-color: darkgrey;
   border-style: solid;
   border-width: thin;
+  position: absolute;
+  left: 300px;
+  top: 0px;
 
 }
 
 #prodotto_3{
   display: inline-block;
+  background-color: darkgrey;
   border-style: solid;
   border-width: thin;
+  position: absolute;
+  right: 0px;
+  top: 0px;
 }
 
 .img_size{
-  width: 250px;
+  width: 200px;
 }
