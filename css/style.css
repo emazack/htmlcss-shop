@@ -1,0 +1,32 @@
+.riga_di_prodotti_1{
+  background: lightgrey;
+  position: relative;
+}
+
+.riga_di_prodotti_2{
+
+
+}
+
+#prodotto_1{
+  display: inline-block;
+  border-style: solid;
+  border-width: thin;
+}
+
+#prodotto_2{
+  display: inline-block;
+  border-style: solid;
+  border-width: thin;
+
+}
+
+#prodotto_3{
+  display: inline-block;
+  border-style: solid;
+  border-width: thin;
+}
+
+.img_size{
+  width: 250px;
+}
